@@ -84,6 +84,12 @@ Agent template that uses Claude to shortlist candidate tools, libraries, or comp
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Github-Shortlister)
 
+### Company Research
+
+Lens-aware company research workspace — captures the user's purpose during onboarding (job seeker, investor, BD, vendor evaluator, journalist), then runs tailored research, evaluation, and Typst-bundled report passes.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Company-Research)
+
 ### Remote Jobs Research Agent
 
 Company-research agent aimed at remote job seekers — gathers company background, remote-work posture, and other signals relevant to evaluating employers.
