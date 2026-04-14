@@ -1,4 +1,4 @@
-# Research Tools Index
+# Research Tools And Templates Index
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
 
@@ -50,6 +50,12 @@ Variant of the deep-research template wired for **public publishing** — layout
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Research-Space-Public-Template)
 
+### Claude Research Workspace General Template
+
+General-purpose iterative research template — folder-based context/prompt/output workflow with a compaction loop for long-running investigations that don't fit one of the specialised templates.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Research-Workspace-General-Template)
+
 ### Claude Stack Research Workspace
 
 A *hands-on* workspace (not a template) for researching and evaluating specific technology stacks — decisions, comparisons, and stack selection notes live here.
@@ -61,6 +67,12 @@ A *hands-on* workspace (not a template) for researching and evaluating specific 
 A *template* modelling a team of Claude Code agents for technology and stack research — the reusable scaffold that workspaces like "Stack Research" are built from.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Tech-Research-Team)
+
+### Claude Technical Research Template
+
+Domain-specific template for technical how-to research — ask Claude technical questions and publish the answers as living, maintainable guides rather than one-shot outputs.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Technical-Research-Template)
 
 ### Claude Think Tank
 
@@ -78,11 +90,29 @@ General-purpose file scaffold for human/AI agent collaboration — the broader s
 
 ## Agents
 
+### Claude Competitor Research Agent
+
+Agent template for structured competitor research — captures a target company and lens (product, positioning, pricing, hiring) and produces a comparison-ready brief.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Competitor-Research-Agent)
+
+### Claude Georeaction Researcher
+
+Template for geopolitical sentiment research — surveys global reaction to a specified issue or event across regions and media, producing a structured reaction map.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Georeaction-Researcher)
+
 ### Claude Github Shortlister
 
 Agent template that uses Claude to shortlist candidate tools, libraries, or components discovered on GitHub against a given set of requirements.
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Github-Shortlister)
+
+### Claude Salary Research Agent
+
+Agent skeleton for salary benchmarking research — gathers comp data for a target role/location/company and produces a structured range with sourcing notes.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Salary-Research-Agent)
 
 ### Company Research
 
